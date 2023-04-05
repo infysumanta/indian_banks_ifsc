@@ -1,1 +1,21 @@
 # Indian Bank IFSC Codes
+
+## Demo result
+
+```json
+{
+  "ADDRESS": "G1 G2 LGF1 BLOCK F1 KALKAJI MAIN MARKET NEW DELHI 19",
+  "BANK": "ICICI BANK LIMITED",
+  "BRANCH": "KALKAJI MAIN MARKET",
+  "CENTRE": "DELHI",
+  "CITY": "DELHI",
+  "CONTACT": 49875431.0,
+  "DISTRICT": "DELHI",
+  "IFSC": "ICIC0003993",
+  "IMPS": true,
+  "MICR": 110229316.0,
+  "NEFT": true,
+  "RTGS": true,
+  "STATE": "DELHI"
+}
+```
